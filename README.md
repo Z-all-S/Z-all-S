@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- **姓名**：施泽全
+- **学校**：广东工业大学
+- **所属班级**：18 级网络工程 3 班
